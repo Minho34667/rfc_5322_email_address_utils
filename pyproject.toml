@@ -1,6 +1,6 @@
 [project]
 name = "rfc-5322-email-address-utils"
-version = "0.1.0"
+version = "0.1.1"
 description = "A parser for RFC 5322 email addresses with names, quoting, and comments."
 requires-python = ">=3.10"
 dependencies = []
